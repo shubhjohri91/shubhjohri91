@@ -14,7 +14,7 @@
 
 <p align="center">I Graduated from San Jose State University as a student of Masters in Data Analytics. An Enthusiastic and self-motivated individual having 4 years of professional experience in computer applications,programming languages, data modeling and database management.</p>
 
-<p align="center">I’m currently working on building a professional networking platform in healthcare as a part of my internship. I’m currently learning Spring Boot and Kafka. I am actively looking for opportunities in Software Engineering.</p>
+<p align="center"></p>
 
 
 <p align="left">
